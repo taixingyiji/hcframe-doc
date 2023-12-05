@@ -7,7 +7,7 @@ module.exports = {
   theme: require.resolve('../../theme-vdoing'), // 使用本地主题
   title: "HCFrame",
   description: '通用框架组件',
-  base: '/doc/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/hcframe-doc/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },

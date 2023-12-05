@@ -52,9 +52,5 @@ module.exports = [
         link: '/pages/ca1baf/',
       }
     ],
-  },
-  {
-    text: '旧版本文档',
-    link: 'http://taixingyiji.tk:5677'
   }
 ]
